@@ -56,7 +56,6 @@
     <script src="{{ asset('admin/js/light-bootstrap-dashboard.js?v=1.4.0') }}"></script>
     <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
     <script src="{{ asset('admin/js/demo.js') }}"></script>
-
     @yield('scripts')
 
 

@@ -12,8 +12,8 @@ class SkillSetting extends Model
 
     protected $fillable = [
 
-        'description',
         'skill',
+        'percentage',
         'status',
     ];
 }
